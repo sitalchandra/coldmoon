@@ -16,15 +16,15 @@ const signals = [
     href: "/research/agri.pdf",
   },
   {
+    date: "21.04.2026",
+    title: "Vol. 2",
+    note: "Classified Research",
+    href: "/research/vol2.zip",
+  },
+  {
     date: "XX.XX.2026",
     title: "Millennium Prize Problems",
     note: "Uploading Soon; Stay Tuned;",
-    href: "/",
-  },
-  {
-    date: "XX.XX.XXXX",
-    title: "SURPRISE!",
-    note: "Coming Soon;",
     href: "/",
   },
   {
