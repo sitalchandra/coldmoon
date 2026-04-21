@@ -19,7 +19,7 @@ const signals = [
     date: "21.04.2026",
     title: "Vol. 2",
     note: "Classified Research",
-    href: "/research/vol2.zip",
+    href: "/research/Vol2.zip",
   },
   {
     date: "XX.XX.2026",
