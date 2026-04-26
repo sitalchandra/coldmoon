@@ -22,10 +22,10 @@ const signals = [
     href: "/research/Vol2.zip",
   },
   {
-    date: "XX.XX.2026",
+    date: "26.04.2026",
     title: "Millennium Prize Problems",
-    note: "Uploading Soon; Stay Tuned;",
-    href: "/",
+    note: "First two solutions uploaded!",
+    href: "/research/MPP.pdf",
   },
   {
     date: "XX.XX.XXXX",
