@@ -28,7 +28,7 @@ const experiments = [
     medium: "Indiverse",
     description: "A medium between reality and dream; Coming Soon;",
     span: "col-span-1 row-span-2",
-    href: "/",
+    href: "https://dreamloop.cloud",
   },
   {
     title: "MS-SEARCH",
