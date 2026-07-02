@@ -17,9 +17,9 @@ const signals = [
   },
   {
     date: "21.04.2026",
-    title: "Vol. 2",
+    title: "Vol. 3",
     note: "Classified Research",
-    href: "/research/Vol2.zip",
+    href: "/research/Vol3.zip",
   },
   {
     date: "26.04.2026",
@@ -28,9 +28,9 @@ const signals = [
     href: "/research/MPP.pdf",
   },
   {
-    date: "XX.XX.XXXX",
-    title: "SURPRISE!",
-    note: "Coming Soon;",
+    date: "30.05.2026",
+    title: "CLOUDHOLE",
+    note: "Cloud Backend Service",
     href: "/",
   },
   {
