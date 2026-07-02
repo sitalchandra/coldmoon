@@ -16,7 +16,7 @@ const signals = [
     href: "/research/agri.pdf",
   },
   {
-    date: "21.04.2026",
+    date: "30.05.2026",
     title: "Vol. 3",
     note: "Classified Research",
     href: "/research/Vol3.zip",
