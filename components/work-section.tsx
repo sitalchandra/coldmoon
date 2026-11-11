@@ -63,7 +63,7 @@ const experiments = [
     medium: "Cloud",
     description: "User friendly cloud",
     span: "col-span-1 row-span-1",
-    href: "/",
+    href: "https://release-assets.githubusercontent.com/github-production-release-asset/1171408510/fc72e6a6-d800-4db0-8f62-946cae120844?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-11-11T13%3A01%3A35Z&rscd=attachment%3B+filename%3Dcoldsync.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-11-11T12%3A00%3A36Z&ske=2026-11-11T13%3A01%3A35Z&sks=b&skv=2018-11-09&sig=C2%2FgVFaIEAPsIlPd0VbmUylYVsf1v8hG%2FIHL%2BNgjtJI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5NDQwMzY0MywibmJmIjoxNzk0NDAwMDQzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.qNNyFtcD17QxCzdethrESRH0Orb5StWkG3y4gLZcVo0&response-content-disposition=attachment%3B%20filename%3Dcoldsync.apk&response-content-type=application%2Fvnd.android.package-archive",
   },
 ]
 
