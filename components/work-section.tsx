@@ -58,6 +58,13 @@ const experiments = [
     span: "col-span-1 row-span-1",
     href: "/",
   },
+  {
+    title: "ColdSync",
+    medium: "Cloud",
+    description: "User friendly cloud",
+    span: "col-span-1 row-span-1",
+    href: "/",
+  },
 ]
 
 export function WorkSection() {
